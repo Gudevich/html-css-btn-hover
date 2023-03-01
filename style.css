@@ -1,1 +1,31 @@
 /* ваше решение здесь */
+button {
+    color: #fefffd;
+    border: none;
+    border-radius: 20px;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #778D45;
+    margin: 50px;
+    padding: 50px;
+    
+}
+
+a {
+    color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    background-color:#AEC09A ;
+    margin: 50px;
+    padding: 50px; 
+
+}
+#login:hover{
+    color: black;
+}
+
+#registration:hover{
+    color: black;
+}
